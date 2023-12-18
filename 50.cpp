@@ -30,5 +30,5 @@ int main()
 {
     Base *x = new Dirived();
     delete x;
-    // CB_CD_DB_
+    // CB_CD_DB_ vi x la con tro kieu Base nen khi huy thi chi huy base thoi, neu muon huy lop con thi them virtual vao ham huy cua lop cha;
 }
